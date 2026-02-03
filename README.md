@@ -31,7 +31,7 @@ In `tony-s-data-understanding-pipeline-check-ipynb.ipynb`, I implemented a compl
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone
+   git clone [https://github.com/TonyleDunk1984/OPENCV_PYTORCH_DOCUMENTATION_TONY_D.git](https://github.com/TonyleDunk1984/OPENCV_PYTORCH_DOCUMENTATION_TONY_D.git)
 Install dependencies:
 
 Bash
@@ -50,7 +50,5 @@ Integrate model performance visualization (Loss/Accuracy curves).
 Created by Tony D as part of the OpenCV & PyTorch Deep Learning curriculum.
 
 
-### 💡 Pro Tips to make it even better:
-1.  **Add Screenshots:** Since you already generated plots (like the images of the cats/dogs or the loss graphs), take a screenshot of them and add them to the README. It makes the repo look much more professional.
-2.  **Link the Repo:** I added a placeholder link in the header—make sure it points to
+
    
