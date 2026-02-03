@@ -32,3 +32,25 @@ In `tony-s-data-understanding-pipeline-check-ipynb.ipynb`, I implemented a compl
 1. Clone the repository:
    ```bash
    git clone
+Install dependencies:
+
+Bash
+pip install torch torchvision opencv-python matplotlib tqdm
+Open the notebooks in Jupyter or VS Code:
+
+Bash
+jupyter notebook
+📈 Future Improvements
+Implement full-scale training on the complete dataset.
+
+Add data augmentation techniques to improve model generalization.
+
+Integrate model performance visualization (Loss/Accuracy curves).
+
+Created by Tony D as part of the OpenCV & PyTorch Deep Learning curriculum.
+
+
+### 💡 Pro Tips to make it even better:
+1.  **Add Screenshots:** Since you already generated plots (like the images of the cats/dogs or the loss graphs), take a screenshot of them and add them to the README. It makes the repo look much more professional.
+2.  **Link the Repo:** I added a placeholder link in the header—make sure it points to
+   
